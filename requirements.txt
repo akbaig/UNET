@@ -1,0 +1,10 @@
+PIL
+cv2
+matplotlib
+numpy
+scipy
+sklearn
+torch
+torchvision
+torchsummary
+tqdm
