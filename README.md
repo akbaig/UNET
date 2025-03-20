@@ -1,5 +1,7 @@
 Reproducing one of the most cited (100k) deep learning architecture **UNET** using latest PyTorch 2.6. It is used in state-of-the-art generative models such as stable diffusion.
 
+![UNET Results](unet.png)
+
 # Installation
 
 **Python 3.9.21** is required
